@@ -34,10 +34,10 @@ In this repo, you can see some skills I'm currently learning, as well as some ot
 ### Working on:
 - 🎮 An Android Game called 'Fuckin' Space Killers'.
 
-
+<br>
 <hr style="border:2px solid gray"></hr>
   
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='0'>](https://github.com/Dark3088)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='1'>](https://github.com/Dark3088)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dark3088)
 
