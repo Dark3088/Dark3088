@@ -2,7 +2,7 @@
 
 I've always loved learning new things on technology. But before becoming a developer I used to work as a language teacher. It was a 12-year-journey that not only taught me a lot about myself, but also about those around me. I had the opportunity to teach people of all ages, help writing and reviewing academic books, design educational solutions and, at some point, was even nominated project leader. 
 
-But in the end, the "tech side of the force" was stronger in me... and I had to give in. So today, I'm a former teacher who wants to not only learn but also create new technologies.
+But in the end, the "tech side of the force" was strong with me... and I had to give in. So today, I'm a former teacher who wants to not only learn but also create new technologies.
 
 In this repo, you can see some skills I'm currently learning, as well as some other projects that I'm working on.
 
