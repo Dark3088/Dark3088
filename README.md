@@ -32,7 +32,7 @@ In this repo, you can see some skills I'm currently learning, as well as some ot
 
  <!-- What I'm currently working on -->
 ### Working on:
-- 🎮 An Android Game called 'Fuckin' Space Killers'.
+- 🎮 An Android Game called 'Freakin' Space Killers'.
 
 <br>
 <hr style="border:2px solid gray"></hr>
@@ -47,5 +47,5 @@ In this repo, you can see some skills I'm currently learning, as well as some ot
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:top margin: 6px 4px">
   </a>
   <a href="https://www.instagram.com/darknslim/">
-  <img alt="Instagram" src="https://img.shields.io/badge/<Instagram>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:top margin: 6px 4px">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:top margin: 6px 4px">
   </a></p>
