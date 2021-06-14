@@ -4,7 +4,6 @@ I've always loved learning new things on technology. But before becoming a devel
 
 But in the end, the "tech side of the force" was strong with me... and I had to give in. So today, I'm a former teacher who wants to not only learn but also create new technologies.
 
-![Hits](https://gpvc.arturio.dev/Dark3088)  
 
 ### Skills:
 <!-- Skills: JAVA / KOTLIN / C# / PYTHON / JAVASCRIPT / ANDROID / GIT -->
