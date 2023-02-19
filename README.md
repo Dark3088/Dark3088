@@ -1,51 +1,33 @@
 ### Hi there 👋
 
-Thank you for stopping by. I'm Diego. I enjoy learning and solving problems. Developing Android apps and games are the things I'm most passionate about. But you can also see some other skills I'm currently learning below.
-
-
-### Skills:
-<!-- Skills: JAVA / KOTLIN / C# / PYTHON / JAVASCRIPT / ANDROID / GIT -->
-<a href="#">
-  <p align="left">
- 
-<img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" style="vertical-align: top margin: 6px 4px"></a>
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" style="vertical-align: top margin: 6px 4px"> </a><a href="#"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="vertical-align: top margin: 6px 4px"></a> <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" style="vertical-align: top margin: 6px 4px"></a> <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="vertical-align:top margin: 6px 4px"></a> <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"  style="vertical-align: top margin: 6px 4px"></a> <a href="#"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top margin 6px 4px"></a>
+<p align="left"> 
+  Thank you for stopping by. I'm Diego, an <strong>Android Developer</strong> who loves coffee and games. Check out<a href="https://play.google.com/store/apps/dev?id=6824525377690928021"> my projects at the PlayStore</a> and feel free to explore my repositories here as well.
 </p>
 
-<p></p>
-* Learning Priority:
- Android Jetpack Library *
- <p>
-  <a href="https://play.google.com/store/apps/details?id=br.lord.dark.vamosparaojapao.free"> - First Published App (Developed in Android Studio)</a>
-
-### Less Frequently Studied:
 <p align="left">
-  <a href="#">
-    <img src="svg/dev/misc/gamedev.svg" alt="gamedev" style="vertical-align:top margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top margin:6px 4px">
-  </a> 
- <a href="#">
-    <img src="svg/dev/frameworks/godot.svg" alt="godot" style="vertical-align:top margin:6px 4px">
-  </a> 
- </p>
- <!-- What I'm currently working on -->
+  ⭐ Skills: <br>
+
+<img alt="Java" src="https://img.shields.io/badge/-Java-red"> </a><a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-blueviolet"></a> <a href="#"><a href="#"><img alt="Android" src="https://img.shields.io/badge/-Android-20green" ></a> <a href="#"><a href="#"><img alt="Android" src="https://img.shields.io/badge/-XML-9cf" ></a> <a href="#"><a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/-Jetpack_Compose-yellowgreen" ></a> <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-orange"></a> <a href="#"><img alt="Jetpack Library" src="https://img.shields.io/badge/-Jetpack Libraries-blue"> </a> <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-blueviolet"></a> <a href="#"><img alt="Espresso" src="https://img.shields.io/badge/-Espresso-lightgrey"></a> <a href="#"><img alt="Koin" src="https://img.shields.io/badge/-Koin-ff69b4"></a>  <a href="#"><img alt="Dagger Hilt" src="https://img.shields.io/badge/-Dagger_Hilt-20green"> </a> <img alt="Play Store" src="https://img.shields.io/badge/-PlayStore-ff69b4"> <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-blue"> </a> <a href="#"><img alt="Play Console" src="https://img.shields.io/badge/-Play Console-blueviolet">  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-9cf"> </a> <br>
+<a href="#"><img alt="GameMaker" src="https://img.shields.io/badge/-GameMaker-yellow"> 
+<a>  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-orange"> </a> <a href="#"><img alt="GameMaker Language" src="https://img.shields.io/badge/-GameMaker Language-red"> <a href="#"><img alt="React Native" src="https://img.shields.io/badge/-React Native-ff69b4"> </a> <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-yellow"></a> <a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-9cf"></a>
+</p>
+
+| Overall Discipline | Most Used Languages|
+| -------- | ------- |
+| <a href="https://git.io/streak-stats"> <img  src="https://github-readme-streak-stats.herokuapp.com?user=Dark3088&theme=dark&hide_border=true&theme=algolia&border_radius=4.7&mode=weekly"></a>|<a href="https://github.com/Gurupreet"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark3088&theme=algolia&hide_langs_below=1&exclude_repo=NLW-eSports&hide=makefile,javascript,swift,objective-c&hide_border=true&hide_progress=false&hide_title=true" /></a>|
+
+<hr style="border:2px solid gray"></hr>
+<br>
+
+<h2>I'm currently refactoring my first project <span><a href="https://play.google.com/store/apps/details?id=br.lord.dark.vamosparaojapao.free">"Let's go to Japan"</a></span> to <span style="color:lightgreen">Jetpack Compose</span>: 🚀 </h2>
 <p></p>
-<a href="https://play.google.com/store/apps/details?id=br.lord.dark.xquad">- First Published Game (Developed in GameMaker Studio 2)</a>
+<a href="#"><img width=300 src="assets/sentences.jpg"> <a href="#"><img width=300 src="assets/proficiency_report.jpg"> <a href="#"><img width=300 src="assets/lang_note.jpg">
 
 <br>
 <hr style="border:2px solid gray"></hr>
-  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='1'>](https://github.com/Dark3088)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Dark3088)
+<p></p>
 
 ### 📢 Find me elsewhere:
-<p align="left">
-  <a href="https://www.linkedin.com/in/diegorsf-dksl88">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align:top margin: 6px 4px">
-  </a>
-  <a href="https://www.instagram.com/darknslim/">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" style="vertical-align:top margin: 6px 4px">
-  </a></p>
+
+[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/diego-rocha88/) [<img src="https://img.shields.io/badge/-Gmail-FF0000?style=labelColor=FF0000&logo=gmail&logoColor=white">](diegorsf.dns@gmail.com)
