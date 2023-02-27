@@ -18,7 +18,7 @@
 
 <hr style="border:2px solid gray"></hr>
 
-<h2>I'm currently refactoring my first project <span><a href="https://play.google.com/store/apps/details?id=br.lord.dark.vamosparaojapao.free">"Let's go to Japan"</a></span> to <span style="color:lightgreen">Jetpack Compose</span>: 🚀 </h2>
+#### I'm currently refactoring my first project <span><a href="https://play.google.com/store/apps/details?id=br.lord.dark.vamosparaojapao.free">"Let's go to Japan"</a></span> to <span style="color:lightgreen">Jetpack Compose</span>: 🚀 
 <p></p>
 <a href="#"><img width=270 src="assets/sentences.jpg"> <a href="#"><img width=270 src="assets/proficiency_report.jpg"> <a href="#"><img width=270 src="assets/lang_note.jpg">
 
@@ -27,6 +27,6 @@
 
 <p></p>
 
-### 📢 Find me elsewhere:
+#### 📢 Find me elsewhere:
 
 [<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/diego-rocha88/) [<img src="https://img.shields.io/badge/-Gmail-FF0000?style=labelColor=FF0000&logo=gmail&logoColor=white">](diegorsf.dns@gmail.com)
