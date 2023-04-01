@@ -20,7 +20,7 @@
 
 ### I'm currently refactoring my first project <span><a href="https://play.google.com/store/apps/details?id=br.lord.dark.vamosparaojapao.free">"Let's go to Japan"</a></span> to <span style="color:lightgreen">Jetpack Compose</span>: 🚀 
 <p></p>
-<a href="#"><img width=270 src="assets/sentences.jpg"> <a href="#"><img width=270 src="assets/proficiency_report.jpg"> <a href="#"><img width=270 src="assets/lang_note.jpg">
+<a href="#"><img width=270 src="assets/sentences.jpg"> <a href="#"><img width=270 src="assets/proficiency_report.jpg"> <a href="#"><img width=270 src="assets/cultural_note.jpg">
 
 <br>
 <hr style="border:2px solid gray"></hr>
