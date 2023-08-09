@@ -14,7 +14,7 @@
 
 | Overall Discipline | Most Used Languages|
 | -------- | ------- |
-| <a href="https://git.io/streak-stats"> <img  src="https://github-readme-streak-stats.herokuapp.com?user=Dark3088&theme=dark&hide_border=true&theme=algolia&border_radius=4.7&mode=weekly"></a>|<a href="https://github.com/Gurupreet"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark3088&theme=algolia&hide_langs_below=1&exclude_repo=NLW-eSports&hide=makefile,javascript,swift,objective-c,html,cplus,c,c%2B%2B,cmake&hide_border=true&hide_progress=false&hide_title=true" /></a>|
+| <a href="https://git.io/streak-stats"> <img  src="https://github-readme-streak-stats.herokuapp.com?user=Dark3088&theme=dark&hide_border=true&theme=algolia&border_radius=4.7&mode=weekly"></a>|<a href="https://github.com/Gurupreet"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark3088&theme=algolia&hide_langs_below=1&exclude_repo=NLW-eSports&hide=makefile,javascript,c,objective-c,cmake,html&hide_border=true&hide_progress=false&hide_title=true" /></a>|
 
 <hr style="border:2px solid gray"></hr>
 
