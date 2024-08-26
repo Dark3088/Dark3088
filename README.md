@@ -29,4 +29,5 @@
 
 ### 📢 Find me elsewhere:
 
-[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/diego-rocha88/) [<img src="https://img.shields.io/badge/-Gmail-FF0000?style=labelColor=FF0000&logo=gmail&logoColor=white">](diegorsf.dns@gmail.com)
+[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/diego-rocha88/)<br>
+My latest project: <a href="https://www.masterproficiency.com">Master Proficiency</a> - a website for improving your skills in the English language.
