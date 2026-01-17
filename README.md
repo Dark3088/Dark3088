@@ -42,4 +42,5 @@ I'm currently refactoring my first project <span><a href="https://play.google.co
 </p>
 
 📢 Find me elsewhere:
+
 <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white">
