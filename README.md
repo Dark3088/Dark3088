@@ -19,23 +19,16 @@ Thank you for stopping by. I'm Diego, an <strong>Android Developer</strong> who 
 <img alt="Jetpack Library" src="https://img.shields.io/badge/-Jetpack Libraries-blue">
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-blueviolet">
 <img alt="Espresso" src="https://img.shields.io/badge/-Espresso-lightgrey">
-<img alt="Koin" src="https://img.shields.io/badge/-Koin-ff69b4">
+<img alt="MPAndroidChart" src="https://img.shields.io/badge/-MPAndroidChart-blueviolet">
+<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-orange">
+<img alt="Moshi" src="https://img.shields.io/badge/-Moshi-red">
+<img alt="KMP" src="https://img.shields.io/badge/-KMP-ff69b4">
+<img alt="Koin" src="https://img.shields.io/badge/-Koin-9cf">
 <img alt="Dagger Hilt" src="https://img.shields.io/badge/-Dagger_Hilt-20green">
 <img alt="Play Store" src="https://img.shields.io/badge/-PlayStore-ff69b4">
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-blue">
-
-
-
-
-
 <img alt="Play Console" src="https://img.shields.io/badge/-Play Console-blueviolet">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-9cf">
-<img alt="GameMaker" src="https://img.shields.io/badge/-GameMaker-yellow">
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-orange">
-<img alt="GameMaker Language" src="https://img.shields.io/badge/-GameMaker Language-red">
-<img alt="React Native" src="https://img.shields.io/badge/-React Native-ff69b4">
-<img alt="React" src="https://img.shields.io/badge/-React-yellow">
-<img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-9cf">
 </p>
 
 <hr style="border:1px solid gray"></hr>
