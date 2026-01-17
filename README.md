@@ -5,11 +5,11 @@ Thank you for stopping by. I'm Diego, an <strong>Android Developer</strong> who 
 </p>
 
 <p align="left">
-⭐ Skills: 
+⭐ Skills: </p>
 
 
 
-
+<p>
 <img alt="Java" src="https://img.shields.io/badge/-Java-red">
 <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-blueviolet">
 <img alt="Android" src="https://img.shields.io/badge/-Android-20green">
