@@ -43,4 +43,4 @@ I'm currently refactoring my first project <span><a href="https://play.google.co
 
 📢 Find me elsewhere:
 
-<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white">
+[<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=&logo=Linkedin&logoColor=white">](https://www.linkedin.com/in/diego-rocha88/)<br>
