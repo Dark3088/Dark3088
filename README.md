@@ -36,9 +36,9 @@ Thank you for stopping by. I'm Diego, an <strong>Android Developer</strong> who 
 I'm currently refactoring my first project <span><a href="https://play.google.com/store/apps/details?id=br.lord.dark.vamosparaojapao.free">"Let's go to Japan"</a></span> to <span style="color:lightgreen">Jetpack Compose</span>: 🚀
 
 <p align="center">
-<img src="assets/sentences.jpg" width="32%">
-<img src="assets/proficiency_report.jpg" width="32%">
-<img src="assets/cultural_note.jpg" width="32%">
+<img src="assets/Practice-Screen-Sakura.png" width="32%">
+<img src="assets/Practice-Screen_Ice_And_Snow.png" width="32%">
+<img src="assets/Skills_Screen_Ice_And_Snow.png" width="32%">
 </p>
 
 📢 Find me elsewhere:
